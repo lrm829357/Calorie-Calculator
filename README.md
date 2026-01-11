@@ -1,10 +1,10 @@
 ## Overview
 
-This is a simple Python Flask web application that estimates daily calorie needs
+This is a simple Python Flask web app that estimates daily calorie needs
 for weight maintenance and weight loss.
 
 It supports multiple basal metabolic rate (BMR) formulas and converts results
-to both kilocalories (kcal) and kilojoules (kJ).
+to both kilocalories and kilojoules.
 
 ## Calculation Methodology
 
